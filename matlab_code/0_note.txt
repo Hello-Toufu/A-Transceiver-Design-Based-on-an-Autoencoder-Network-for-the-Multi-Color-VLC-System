@@ -1,0 +1,8 @@
+Finally used files:
+m_6_RGB_VLC_pam_ML_bler_diff_CCT_same_h.m
+m_10_RGB_constellation_design_multi_CCT.m
+m_14_RGB_constellation_design_multi_CSI_ML_2.m
+
+m_25_RGBY_VLC_pam_ML_bler_diff_CCT_same_h.m
+m_26_RGBY_constellation_design_multi_CCT.m
+m_28_RGBY_constellation_design_multi_CSI_ML.m
